@@ -22,7 +22,7 @@ I am João Victor </h2>
 
 <p align="center">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvictore&show_icons=true&theme=dark&width=40)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvictore&hide=javascript&theme=dark)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvictore&show_icons=true&theme=radical&width=40)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvictore&hide=javascript&theme=radical)
   
 </p>
